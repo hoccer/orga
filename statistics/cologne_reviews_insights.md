@@ -23,6 +23,11 @@
 * I decided to leave this ticket out of the stats, because it would influence the stats in a bad way
 * Stats of the ticket (469): up-front estimation: 5, work days tracked: 24
 
+##### 13 JAN
+
+* When tickets grow too large we decided to subdivide them or do intermediate retros
+* UI Integration was under-estimated again
+* We had a very large bugticket (12 days tracked, partially from last iteration), a couple of other related bugs were also fixed within this ticket
 
 
 
