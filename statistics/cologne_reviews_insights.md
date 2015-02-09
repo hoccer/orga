@@ -29,7 +29,14 @@
 * UI Integration was under-estimated again
 * We had a very large bugticket (12 days tracked, partially from last iteration), a couple of other related bugs were also fixed within this ticket
 
+##### 03 FEB
 
+* When tickets grow too large we decided to subdivide them or do intermediate reviews
+* For some reason this was a bad iteration
+* Less time was tracked on tickets (Mirko is more and more involved in coordination)
+* Few ticket were closed, some tracked time might have been stuck in the review column and will be tracked in the next review
 
+#### Stat Info
 
-
+* For estimations: Considering the tickets that have an estimation after being worked on (we don't do initial estimations on tasks)
+* NEW: For ALL estimations: x / y = z; x is days actually worked on that ticket after initial estimation, y is the first estimation during standup after initially working on that ticket, z is ratio (should be close to 1) 
