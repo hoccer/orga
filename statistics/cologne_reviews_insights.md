@@ -41,9 +41,13 @@
 * A very challenging ticket was related to keeping nearby active, even when hoccer has lost focus, lots of pairing involved, the paring time was not calculated in the estimation
 * A UI ticket was underestimated again
 
+##### 07 APR
+
+* An android lifecycle ticket was underestimated again 
 
 #### Stat Info
 
 * Tracked pairing time: e.g. 5,5 days tracked pairing means 11 man days 
 * For estimations: Considering the tickets that have an estimation after being worked on (we don't do initial estimations on tasks)
-* NEW: For ALL estimations: x / y = z; x is days actually worked on that ticket after initial estimation, y is the first estimation during standup after initially working on that ticket, z is ratio (should be close to 1) 
+* For ALL estimations: x / y = z; x is days actually worked on that ticket after initial estimation, y is the first estimation during standup after initially working on that ticket, z is ratio (should be close to 1) 
+* Tracked pairing time: e.g. 5,5 days tracked pairing means 11 man days
