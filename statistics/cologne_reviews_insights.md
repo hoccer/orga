@@ -45,6 +45,11 @@
 
 * An android lifecycle ticket was underestimated again 
 
+##### 28 APR
+
+* One use case (keep contacts when deleted) was immensely underestimated
+* For new use cases more initial thought should be put into planning the feature
+
 #### Stat Info
 
 * Tracked pairing time: e.g. 5,5 days tracked pairing means 11 man days 
