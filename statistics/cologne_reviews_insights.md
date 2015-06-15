@@ -50,6 +50,15 @@
 * One use case (keep contacts when deleted) was immensely underestimated
 * For new use cases more initial thought should be put into planning the feature
 
+##### 19 MAY
+
+* One bug: Fixed failed download handling was extremely underestimated
+* First time publishing of while label client in real
+
+##### 09 JUN
+
+* Worldwide mode was introduced
+
 #### Stat Info
 
 * Tracked pairing time: e.g. 5,5 days tracked pairing means 11 man days 
